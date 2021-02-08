@@ -1,0 +1,48 @@
+<html>
+<head>
+ <title>Contact Form</title>
+ <meta charset="utf-8" />
+ <meta http-equiv="Content-type" content="text/html; charset=utf-8" />
+ <meta name="viewport" content="width=device-width, initial-scale=1" />
+ <meta name="viewport" content="width=device-width, initial-scale=1" />
+ <meta name="description" content="A jouney of a thousand miles begins with a
+single step." />
+</head>
+<body>
+<div>
+<form action="/contact form.htm">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQEgyAzQ5A1gE2aiohqcBDPUXhytk13fY2iA&usqp=CAU"  width="800 px">
+
+<h1><u>Contact Us</u></h1>
+<h3>Fill the form provided below carefully</h3>
+<hr/>
+
+<p><strong>Your Name:</strong><input type="text" placeholder="your name"/></p>
+<hr/> 
+
+<p><strong>Your Email:</strong><input type="email" placeholder="your email"/></p>
+<hr/>
+
+
+<p><strong>Your phone number:</strong><input type="tel" placeholder="your number"/></p>
+<hr/>
+
+<p><strong>What things do you like about my blog?:</strong><textarea placeholder="type here"></textarea>
+<hr/>
+<br/>
+<p><strong>Are you interested in blogging?</strong></p><input type="radio" name="options" /> yes
+
+
+<input type="radio" name="options" /> no
+<hr/>
+<input type="submit">
+<br/>
+<p><u><em><strong>We wil try to contact you soon , thanks for approaching us.</strong></em></u></p>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShDPqF4pH6aB1WafJrkftTNMuqyEmHY8ClDQ&usqp=CAU" width="300 px">
+
+
+
+
+</form>
+</div>
+</body>
